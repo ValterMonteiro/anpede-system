@@ -15,7 +15,7 @@ public class StandartError implements Serializable{
 	private static final long serialVersionUID = 1L;
 
 
-	//CONFIGURAÇÃO DA MENSAGEM PADRONIZADA DE EXCEÇÃ
+	//CONFIGURAÇÃO DA MENSAGEM PADRONIZADA DE EXCEÇÃO
 	private Instant timestamp;
 	private Integer status;
 	private String error;
